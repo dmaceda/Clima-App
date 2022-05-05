@@ -1,0 +1,24 @@
+
+
+.container {
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0.132), rgba(12, 12, 12, 0.132));
+    backdrop-filter: blur(10px);
+     border: none;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    font-family: ProductSans;
+    margin: 20px;
+    width: 18rem;
+    margin: auto;
+    margin-top: 100px;
+    text-align: justify;
+    padding: 50px;
+    box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+
+.viento {
+    font-size: small;
+    height: 0;
+}

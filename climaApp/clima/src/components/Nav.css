@@ -1,0 +1,82 @@
+@font-face {
+  font-family: 'ProductSans';
+  src: url(../Fuentes/ProductSans.ttf);
+}
+
+
+#logo {
+  margin-right: 20px;
+}
+#logo:hover {
+  transition-duration: 500ms;
+  transform: scale(1.1)
+}
+
+.nav-contenedor{
+  font-family: ProductSans;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-bottom: 5px;
+  justify-content: space-between;
+  padding-left: 20px;
+  padding-right: 20px;
+  height: 50px;
+  background-color: rgba(248, 240, 240, 0.274);
+  backdrop-filter: blur(10px);
+ 
+}
+
+.nav {
+align-items: center;
+color: rgb(24, 23, 23);
+font-weight: 600;
+transition: 1s;
+transform: scale(1.1);
+
+}
+
+
+.about {
+  color: rgb(24, 23, 23);
+  font-weight: 500;
+
+}
+
+.about:visited{
+  text-decoration: none;
+}
+
+
+.search {
+  background-color: white;
+  border-radius: 4px;
+  padding: 3px;
+  border:none;
+  margin-right: 5px;
+  width: 500px;
+  
+  
+}
+.search:focus {
+  outline-color: white;
+
+}
+
+.agregar {
+  color: white;
+  font-size: small;
+  padding: 6px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rgba(16, 15, 15, 0.412);
+  border: none;
+  border-radius: 4px;
+  
+
+}
+.agregar:hover {
+  background-color: rgba(16, 15, 15, 0.258);
+  transition-duration: 500ms;
+  transform: scale(1.1)
+}

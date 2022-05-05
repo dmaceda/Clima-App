@@ -1,0 +1,17 @@
+
+.contenedor{
+    margin: auto;
+    margin-top: 50px;
+    width: 30%;
+    text-align: justify;
+    padding: 30px;
+    box-shadow: 4px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0.132), rgba(12, 12, 12, 0.132));
+    backdrop-filter: blur(10px);
+}
+.titulo {
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
