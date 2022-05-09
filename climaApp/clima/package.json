@@ -1,6 +1,7 @@
 {
   "name": "09-react-routing",
   "version": "1.0.0",
+  "homepage":"https://dmaceda.github.io/Clima-App",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
@@ -12,6 +13,8 @@
     "react-scripts": "4.0.3"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
