@@ -1,3 +1,4 @@
+![Preview de la App ](https://github.com/dmaceda/Clima-App/blob/master/clima_mokup.jpg)
 ![Preview de la App ](https://github.com/dmaceda/Clima-App/blob/master/clima.jpg)
 ![Preview de la App ](https://github.com/dmaceda/Clima-App/blob/master/detalle.jpg)
 
