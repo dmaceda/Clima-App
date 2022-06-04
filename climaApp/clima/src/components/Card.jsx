@@ -9,7 +9,7 @@ export default function Card ({min, max, name, img, onClose, id, temp, country, 
             <button onClick={onClose} className="btn">X</button>
         </div>
         <div className="card-body">
-          <Link to={`/ciudad/${id}`}>
+          <Link to={`/ciudad/${id}`} className='link'>
           <h5 className="card-title">{name}, {country} </h5>
          
           </Link>

@@ -9,7 +9,7 @@ import { Link } from 'react-router-dom';
 function Nav({onSearch}) {
   return (
     <nav className="nav-contenedor">
-      <Link to='/'>
+      <Link to='/' className='link'>
         <span className="nav">
           <img id="logo" src={Logo} width="35" height="35" alt="" />
           Weather App
@@ -18,7 +18,7 @@ function Nav({onSearch}) {
         <SearchBar
           onSearch={onSearch}
         />
-        <Link to='/about'>
+        <Link to='/about' className='link'>
         <span className='about'>About</span>
       </Link>
     </nav>

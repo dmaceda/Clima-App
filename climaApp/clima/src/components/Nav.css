@@ -80,3 +80,11 @@ transform: scale(1.1);
   transition-duration: 500ms;
   transform: scale(1.1)
 }
+
+.link {
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: none;
+}
