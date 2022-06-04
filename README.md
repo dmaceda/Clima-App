@@ -1,6 +1,6 @@
 ![Preview de la App ](https://github.com/dmaceda/Clima-App/blob/master/clima_mokup.jpg)
-![Preview de la App ](https://github.com/dmaceda/Clima-App/blob/master/clima.jpg)
-![Preview de la App ](https://github.com/dmaceda/Clima-App/blob/master/detalle.jpg)
+![Preview de la App ](https://github.com/dmaceda/Clima-App/blob/master/clima1.png)
+![Preview de la App ](https://github.com/dmaceda/Clima-App/blob/master/clima2.png)
 
 Link de la App : https://dmaceda.github.io/Clima-App/
 
