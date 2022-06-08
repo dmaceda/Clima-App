@@ -12,7 +12,7 @@ function Nav({onSearch}) {
       <Link to='/' className='link'>
         <span className="nav">
           <img id="logo" src={Logo} width="35" height="35" alt="" />
-          Weather App
+          <h6 className='nombre'>Weather App</h6>
         </span>
       </Link>
         <SearchBar

@@ -15,3 +15,16 @@
     font-weight: bold;
     padding-bottom: 20px;
 }
+
+@media screen and (max-width: 1024px) {
+   .contenedor{
+       width: 80%;
+   }
+  }
+  
+  /*********** MEDIA QUERIES (SMALL DEVICES ************/
+  @media screen and (max-width: 600) {
+    .contenedor{
+        width: 80%;
+    }
+  }
