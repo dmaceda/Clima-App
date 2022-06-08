@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Clima-App/static/css/main.8b6bdf3d.chunk.css",
-    "main.js": "/Clima-App/static/js/main.5c94edc4.chunk.js",
-    "main.js.map": "/Clima-App/static/js/main.5c94edc4.chunk.js.map",
+    "main.css": "/Clima-App/static/css/main.fff2c5c5.chunk.css",
+    "main.js": "/Clima-App/static/js/main.233ffc90.chunk.js",
+    "main.js.map": "/Clima-App/static/js/main.233ffc90.chunk.js.map",
     "runtime-main.js": "/Clima-App/static/js/runtime-main.9135405f.js",
     "runtime-main.js.map": "/Clima-App/static/js/runtime-main.9135405f.js.map",
     "static/js/2.88e4a420.chunk.js": "/Clima-App/static/js/2.88e4a420.chunk.js",
     "static/js/2.88e4a420.chunk.js.map": "/Clima-App/static/js/2.88e4a420.chunk.js.map",
     "index.html": "/Clima-App/index.html",
-    "static/css/main.8b6bdf3d.chunk.css.map": "/Clima-App/static/css/main.8b6bdf3d.chunk.css.map",
+    "static/css/main.fff2c5c5.chunk.css.map": "/Clima-App/static/css/main.fff2c5c5.chunk.css.map",
     "static/js/2.88e4a420.chunk.js.LICENSE.txt": "/Clima-App/static/js/2.88e4a420.chunk.js.LICENSE.txt",
     "static/media/Nav.css": "/Clima-App/static/media/ProductSans.d1653840.ttf",
     "static/media/index.css": "/Clima-App/static/media/fondo2.b37b495b.jpg",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.9135405f.js",
     "static/js/2.88e4a420.chunk.js",
-    "static/css/main.8b6bdf3d.chunk.css",
-    "static/js/main.5c94edc4.chunk.js"
+    "static/css/main.fff2c5c5.chunk.css",
+    "static/js/main.233ffc90.chunk.js"
   ]
 }
